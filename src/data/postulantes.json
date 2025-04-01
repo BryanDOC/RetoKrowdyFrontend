@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "nombre": "Bryan Olivares",
+      "edad": 24,
+      "imagen": "/src/assets/bryan.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Diego Viegas",
+      "edad": 32,
+      "imagen": "/src/assets/diego.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Miguel Durán",
+      "edad": 25,
+      "imagen": "/src/assets/midudev.png"
+    }
+    
+  ]
+  
