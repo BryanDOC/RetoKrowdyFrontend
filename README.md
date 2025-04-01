@@ -1,6 +1,4 @@
-# React + TypeScript + Vite
-
-RetoKrowdyFrontend.
+# RetoKrowdyFrontend.
 
 Ejecucion 
 ```js
